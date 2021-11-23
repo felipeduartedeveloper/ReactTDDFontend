@@ -9,9 +9,8 @@
     "esModuleInterop": true, 
     "module": "esnext",
     "moduleResolution": "node",                                   /* Specify what module code is generated. */
-    "rootDir": "./",
     "jsx": "react",
-    "rootDirs": "src",
+    "rootDir": "src",
     "baseUrl": "src",
     "allowJs": true,
     "skipLibCheck": true,
