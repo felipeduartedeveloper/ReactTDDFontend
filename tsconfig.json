@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.Iterable",
+      "esnext"
+    ],                                    
+    "esModuleInterop": true, 
+    "module": "esnext",
+    "moduleResolution": "node",                                   /* Specify what module code is generated. */
+    "rootDir": "./",
+    "jsx": "react",
+    "rootDirs": "src",
+    "baseUrl": "src",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true
+    },
+    "include": [
+      "src"
+    ]
+}
